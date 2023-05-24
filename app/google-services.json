@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "945009513426",
+    "project_id": "acs-lite",
+    "storage_bucket": "acs-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:945009513426:android:da02cc70e39ccaaa9bae0b",
+        "android_client_info": {
+          "package_name": "com.example.acs_lite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "945009513426-vd478f74qad52hk7ib6k5ufe0lsp9t1h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmEgVPvyvSIH6vvKY7LduYGrDFVqWcj4w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "945009513426-vd478f74qad52hk7ib6k5ufe0lsp9t1h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
